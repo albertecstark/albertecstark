@@ -11,3 +11,4 @@
     From <a href="https://github.com/einsteinium10032">einsteinium10032</a>
 </samp>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
