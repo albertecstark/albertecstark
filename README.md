@@ -13,5 +13,5 @@
 </samp>
 
 <p align='center'>
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertecstark)](https://github.com/anuraghazra/github-readme-stats)
+    [![alberts GitHub stats](https://github-readme-stats.vercel.app/api?username=albertecstark)](https://github.com/anuraghazra/github-readme-stats)
 </p>
