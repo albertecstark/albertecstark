@@ -1,5 +1,5 @@
 
-<h3 align="center"><samp>Hello! I am <b><a href="https://einsteinium10032.github.io/einsteinium.github.io/" >Albert Stark</a></b></samp></h3>
+<h3 align="center"><samp>Hello! I am <b><a href="https://albertecstark.github.io" >Albert Stark</a></b></samp></h3>
 <p align="center"><br>
     <samp>
     「　Albert Stark, A-Level student　」
@@ -18,6 +18,6 @@
 
 <samp>
     <p align="center">
-    From <a href="https://github.com/einsteinium10032">einsteinium10032</a>
+    From <a href="https://github.com/albertecstark/albertecstark/">albertecstark</a>
     </p>
 </samp>
